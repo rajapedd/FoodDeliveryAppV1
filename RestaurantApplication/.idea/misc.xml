@@ -6,6 +6,15 @@
       <list>
         <option value="$PROJECT_DIR$/../../AppsDownloaded/Eureka-Service/pom.xml" />
         <option value="$PROJECT_DIR$/../../AppsDownloaded/Eureka-Service/EurekaService/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../AppsDownloaded/Restaurant-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Restaurant-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../AppsDownloaded/Food-App-GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/Food-App-GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/../Food-App-GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/../Eureka-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../Restaurant-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../AppsDownloaded/FoodDelivery/pom.xml" />
       </list>
     </option>
   </component>
